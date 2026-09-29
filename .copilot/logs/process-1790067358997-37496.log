@@ -3,3 +3,8 @@
 2026-09-22T08:55:59.044Z [INFO] Starting CLI in stdio mode (Rust JSON-RPC engine)
 2026-09-22T08:55:59.046Z [INFO] CLI server ready (stdio mode, Rust JSON-RPC engine)
 2026-09-22T08:55:59.047Z [INFO] Server started, waiting for requests
+2026-09-22T09:08:00.444Z [INFO] Shutting down: stdin closed
+2026-09-22T09:08:00.455Z [INFO] Starting graceful shutdown of CLI server
+2026-09-22T09:08:00.455Z [INFO] Destroying 0 active sessions
+2026-09-22T09:08:00.466Z [INFO] Rust JSON-RPC engine stopped successfully
+2026-09-22T09:08:00.466Z [INFO] CLI server stopped successfully

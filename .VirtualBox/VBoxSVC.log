@@ -260,3 +260,991 @@
 04:00:46.106449 dns-monitor HostDnsMonitor: unchanged
 04:02:16.457834 USBPROXY usbLibGetDevices: Starting USB device enumeration
 04:02:16.465484 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+04:03:16.132768 dns-monitor HostDnsMonitor: updating information
+04:03:16.132808 dns-monitor HostDnsMonitor: unchanged
+04:05:46.161115 dns-monitor HostDnsMonitor: updating information
+04:05:46.161136 dns-monitor HostDnsMonitor: unchanged
+04:08:16.187675 dns-monitor HostDnsMonitor: updating information
+04:08:16.187696 dns-monitor HostDnsMonitor: unchanged
+04:10:46.203159 dns-monitor HostDnsMonitor: updating information
+04:10:46.203182 dns-monitor HostDnsMonitor: unchanged
+04:13:16.224296 dns-monitor HostDnsMonitor: updating information
+04:13:16.224314 dns-monitor HostDnsMonitor: unchanged
+04:15:46.262800 dns-monitor HostDnsMonitor: updating information
+04:15:46.262833 dns-monitor HostDnsMonitor: unchanged
+04:18:16.296447 dns-monitor HostDnsMonitor: updating information
+04:18:16.296462 dns-monitor HostDnsMonitor: unchanged
+04:20:46.323938 dns-monitor HostDnsMonitor: updating information
+04:20:46.323961 dns-monitor HostDnsMonitor: unchanged
+04:23:16.342553 dns-monitor HostDnsMonitor: updating information
+04:23:16.342613 dns-monitor HostDnsMonitor: unchanged
+04:25:46.361184 dns-monitor HostDnsMonitor: updating information
+04:25:46.361206 dns-monitor HostDnsMonitor: unchanged
+04:28:16.389985 dns-monitor HostDnsMonitor: updating information
+04:28:16.390004 dns-monitor HostDnsMonitor: unchanged
+04:30:46.414160 dns-monitor HostDnsMonitor: updating information
+04:30:46.414182 dns-monitor HostDnsMonitor: unchanged
+04:33:16.454864 dns-monitor HostDnsMonitor: updating information
+04:33:16.454894 dns-monitor HostDnsMonitor: unchanged
+04:35:46.502445 dns-monitor HostDnsMonitor: updating information
+04:35:46.502465 dns-monitor HostDnsMonitor: unchanged
+04:38:16.536480 dns-monitor HostDnsMonitor: updating information
+04:38:16.536502 dns-monitor HostDnsMonitor: unchanged
+04:40:46.553416 dns-monitor HostDnsMonitor: updating information
+04:40:46.553436 dns-monitor HostDnsMonitor: unchanged
+04:43:16.599654 dns-monitor HostDnsMonitor: updating information
+04:43:16.599676 dns-monitor HostDnsMonitor: unchanged
+04:45:46.622048 dns-monitor HostDnsMonitor: updating information
+04:45:46.622078 dns-monitor HostDnsMonitor: unchanged
+04:48:16.655245 dns-monitor HostDnsMonitor: updating information
+04:48:16.655267 dns-monitor HostDnsMonitor: unchanged
+04:50:46.691666 dns-monitor HostDnsMonitor: updating information
+04:50:46.691688 dns-monitor HostDnsMonitor: unchanged
+04:53:16.712451 dns-monitor HostDnsMonitor: updating information
+04:53:16.712506 dns-monitor HostDnsMonitor: unchanged
+04:55:46.744786 dns-monitor HostDnsMonitor: updating information
+04:55:46.744809 dns-monitor HostDnsMonitor: unchanged
+04:58:16.780416 dns-monitor HostDnsMonitor: updating information
+04:58:16.780437 dns-monitor HostDnsMonitor: unchanged
+05:00:46.799727 dns-monitor HostDnsMonitor: updating information
+05:00:46.799749 dns-monitor HostDnsMonitor: unchanged
+05:03:16.819219 dns-monitor HostDnsMonitor: updating information
+05:03:16.819241 dns-monitor HostDnsMonitor: unchanged
+05:05:46.861462 dns-monitor HostDnsMonitor: updating information
+05:05:46.861484 dns-monitor HostDnsMonitor: unchanged
+05:08:16.879107 dns-monitor HostDnsMonitor: updating information
+05:08:16.879128 dns-monitor HostDnsMonitor: unchanged
+05:10:46.906282 dns-monitor HostDnsMonitor: updating information
+05:10:46.906297 dns-monitor HostDnsMonitor: unchanged
+05:13:16.940414 dns-monitor HostDnsMonitor: updating information
+05:13:16.940435 dns-monitor HostDnsMonitor: unchanged
+05:15:45.960407 dns-monitor HostDnsMonitor: updating information
+05:15:45.960429 dns-monitor HostDnsMonitor: unchanged
+05:18:16.006393 dns-monitor HostDnsMonitor: updating information
+05:18:16.006415 dns-monitor HostDnsMonitor: unchanged
+05:20:46.029553 dns-monitor HostDnsMonitor: updating information
+05:20:46.029574 dns-monitor HostDnsMonitor: unchanged
+05:23:16.056276 dns-monitor HostDnsMonitor: updating information
+05:23:16.056343 dns-monitor HostDnsMonitor: unchanged
+05:25:46.078156 dns-monitor HostDnsMonitor: updating information
+05:25:46.078174 dns-monitor HostDnsMonitor: unchanged
+05:28:16.121892 dns-monitor HostDnsMonitor: updating information
+05:28:16.121915 dns-monitor HostDnsMonitor: unchanged
+05:30:46.145798 dns-monitor HostDnsMonitor: updating information
+05:30:46.145820 dns-monitor HostDnsMonitor: unchanged
+05:33:16.178498 dns-monitor HostDnsMonitor: updating information
+05:33:16.178520 dns-monitor HostDnsMonitor: unchanged
+05:35:46.202391 dns-monitor HostDnsMonitor: updating information
+05:35:46.202413 dns-monitor HostDnsMonitor: unchanged
+05:38:16.247895 dns-monitor HostDnsMonitor: updating information
+05:38:16.247916 dns-monitor HostDnsMonitor: unchanged
+05:40:46.273053 dns-monitor HostDnsMonitor: updating information
+05:40:46.273075 dns-monitor HostDnsMonitor: unchanged
+05:43:16.304162 dns-monitor HostDnsMonitor: updating information
+05:43:16.304177 dns-monitor HostDnsMonitor: unchanged
+05:44:06.947999 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:44:06.955254 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+05:45:46.309933 dns-monitor HostDnsMonitor: updating information
+05:45:46.309955 dns-monitor HostDnsMonitor: unchanged
+05:48:16.350988 dns-monitor HostDnsMonitor: updating information
+05:48:16.351012 dns-monitor HostDnsMonitor: unchanged
+05:48:31.734713 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:48:31.744736 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+05:50:46.368315 dns-monitor HostDnsMonitor: updating information
+05:50:46.368336 dns-monitor HostDnsMonitor: unchanged
+05:53:16.390902 dns-monitor HostDnsMonitor: updating information
+05:53:16.390963 dns-monitor HostDnsMonitor: unchanged
+05:55:46.427258 dns-monitor HostDnsMonitor: updating information
+05:55:46.427272 dns-monitor HostDnsMonitor: unchanged
+05:58:16.454158 dns-monitor HostDnsMonitor: updating information
+05:58:16.454180 dns-monitor HostDnsMonitor: unchanged
+06:00:46.478287 dns-monitor HostDnsMonitor: updating information
+06:00:46.478309 dns-monitor HostDnsMonitor: unchanged
+06:03:16.516627 dns-monitor HostDnsMonitor: updating information
+06:03:16.516649 dns-monitor HostDnsMonitor: unchanged
+06:05:46.539715 dns-monitor HostDnsMonitor: updating information
+06:05:46.539730 dns-monitor HostDnsMonitor: unchanged
+06:08:16.587734 dns-monitor HostDnsMonitor: updating information
+06:08:16.587749 dns-monitor HostDnsMonitor: unchanged
+06:10:46.628891 dns-monitor HostDnsMonitor: updating information
+06:10:46.628913 dns-monitor HostDnsMonitor: unchanged
+06:13:16.648952 dns-monitor HostDnsMonitor: updating information
+06:13:16.648987 dns-monitor HostDnsMonitor: unchanged
+06:15:46.684523 dns-monitor HostDnsMonitor: updating information
+06:15:46.684544 dns-monitor HostDnsMonitor: unchanged
+06:18:16.711003 dns-monitor HostDnsMonitor: updating information
+06:18:16.711034 dns-monitor HostDnsMonitor: unchanged
+06:20:46.748994 dns-monitor HostDnsMonitor: updating information
+06:20:46.749015 dns-monitor HostDnsMonitor: unchanged
+06:23:16.757390 dns-monitor HostDnsMonitor: updating information
+06:23:16.757441 dns-monitor HostDnsMonitor: unchanged
+06:25:46.792715 dns-monitor HostDnsMonitor: updating information
+06:25:46.792738 dns-monitor HostDnsMonitor: unchanged
+06:28:16.825917 dns-monitor HostDnsMonitor: updating information
+06:28:16.825933 dns-monitor HostDnsMonitor: unchanged
+06:30:46.862986 dns-monitor HostDnsMonitor: updating information
+06:30:46.863017 dns-monitor HostDnsMonitor: unchanged
+06:33:16.887936 dns-monitor HostDnsMonitor: updating information
+06:33:16.887958 dns-monitor HostDnsMonitor: unchanged
+06:35:46.932607 dns-monitor HostDnsMonitor: updating information
+06:35:46.932623 dns-monitor HostDnsMonitor: unchanged
+06:38:16.954947 dns-monitor HostDnsMonitor: updating information
+06:38:16.954968 dns-monitor HostDnsMonitor: unchanged
+06:40:47.000081 dns-monitor HostDnsMonitor: updating information
+06:40:47.000103 dns-monitor HostDnsMonitor: unchanged
+06:43:17.029591 dns-monitor HostDnsMonitor: updating information
+06:43:17.029613 dns-monitor HostDnsMonitor: unchanged
+06:45:47.062833 dns-monitor HostDnsMonitor: updating information
+06:45:47.062849 dns-monitor HostDnsMonitor: unchanged
+06:48:17.093493 dns-monitor HostDnsMonitor: updating information
+06:48:17.093514 dns-monitor HostDnsMonitor: unchanged
+06:50:47.125549 dns-monitor HostDnsMonitor: updating information
+06:50:47.125571 dns-monitor HostDnsMonitor: unchanged
+06:53:17.153526 dns-monitor HostDnsMonitor: updating information
+06:53:17.153585 dns-monitor HostDnsMonitor: unchanged
+06:55:47.182033 dns-monitor HostDnsMonitor: updating information
+06:55:47.182054 dns-monitor HostDnsMonitor: unchanged
+06:58:17.225624 dns-monitor HostDnsMonitor: updating information
+06:58:17.225647 dns-monitor HostDnsMonitor: unchanged
+07:00:47.261209 dns-monitor HostDnsMonitor: updating information
+07:00:47.261285 dns-monitor HostDnsMonitor: unchanged
+07:03:17.310184 dns-monitor HostDnsMonitor: updating information
+07:03:17.310234 dns-monitor HostDnsMonitor: unchanged
+07:05:47.337033 dns-monitor HostDnsMonitor: updating information
+07:05:47.337056 dns-monitor HostDnsMonitor: unchanged
+07:08:17.361986 dns-monitor HostDnsMonitor: updating information
+07:08:17.362011 dns-monitor HostDnsMonitor: unchanged
+07:10:47.394668 dns-monitor HostDnsMonitor: updating information
+07:10:47.394692 dns-monitor HostDnsMonitor: unchanged
+07:13:17.432634 dns-monitor HostDnsMonitor: updating information
+07:13:17.432657 dns-monitor HostDnsMonitor: unchanged
+07:15:47.476076 dns-monitor HostDnsMonitor: updating information
+07:15:47.476097 dns-monitor HostDnsMonitor: unchanged
+07:18:17.515536 dns-monitor HostDnsMonitor: updating information
+07:18:17.515554 dns-monitor HostDnsMonitor: unchanged
+07:20:47.569903 dns-monitor HostDnsMonitor: updating information
+07:20:47.569925 dns-monitor HostDnsMonitor: unchanged
+07:23:17.610364 dns-monitor HostDnsMonitor: updating information
+07:23:17.610423 dns-monitor HostDnsMonitor: unchanged
+07:25:47.619578 dns-monitor HostDnsMonitor: updating information
+07:25:47.619609 dns-monitor HostDnsMonitor: unchanged
+07:28:17.661836 dns-monitor HostDnsMonitor: updating information
+07:28:17.661857 dns-monitor HostDnsMonitor: unchanged
+07:30:47.687631 dns-monitor HostDnsMonitor: updating information
+07:30:47.687648 dns-monitor HostDnsMonitor: unchanged
+07:33:17.712327 dns-monitor HostDnsMonitor: updating information
+07:33:17.712351 dns-monitor HostDnsMonitor: unchanged
+07:35:47.743219 dns-monitor HostDnsMonitor: updating information
+07:35:47.743242 dns-monitor HostDnsMonitor: unchanged
+07:38:17.794444 dns-monitor HostDnsMonitor: updating information
+07:38:17.794467 dns-monitor HostDnsMonitor: unchanged
+07:40:47.796007 dns-monitor HostDnsMonitor: updating information
+07:40:47.796025 dns-monitor HostDnsMonitor: unchanged
+07:43:17.826457 dns-monitor HostDnsMonitor: updating information
+07:43:17.826479 dns-monitor HostDnsMonitor: unchanged
+07:45:47.848455 dns-monitor HostDnsMonitor: updating information
+07:45:47.848472 dns-monitor HostDnsMonitor: unchanged
+07:48:17.890649 dns-monitor HostDnsMonitor: updating information
+07:48:17.890671 dns-monitor HostDnsMonitor: unchanged
+07:50:47.912025 dns-monitor HostDnsMonitor: updating information
+07:50:47.912042 dns-monitor HostDnsMonitor: unchanged
+07:53:17.933332 dns-monitor HostDnsMonitor: updating information
+07:53:17.933382 dns-monitor HostDnsMonitor: unchanged
+07:55:47.969189 dns-monitor HostDnsMonitor: updating information
+07:55:47.969211 dns-monitor HostDnsMonitor: unchanged
+07:58:16.982061 dns-monitor HostDnsMonitor: updating information
+07:58:16.982084 dns-monitor HostDnsMonitor: unchanged
+08:00:46.991684 dns-monitor HostDnsMonitor: updating information
+08:00:46.991705 dns-monitor HostDnsMonitor: unchanged
+08:03:17.023306 dns-monitor HostDnsMonitor: updating information
+08:03:17.023328 dns-monitor HostDnsMonitor: unchanged
+08:05:47.045695 dns-monitor HostDnsMonitor: updating information
+08:05:47.045717 dns-monitor HostDnsMonitor: unchanged
+08:08:17.088789 dns-monitor HostDnsMonitor: updating information
+08:08:17.088812 dns-monitor HostDnsMonitor: unchanged
+08:10:47.102296 dns-monitor HostDnsMonitor: updating information
+08:10:47.102318 dns-monitor HostDnsMonitor: unchanged
+08:13:17.131180 dns-monitor HostDnsMonitor: updating information
+08:13:17.131201 dns-monitor HostDnsMonitor: unchanged
+08:15:47.164832 dns-monitor HostDnsMonitor: updating information
+08:15:47.164854 dns-monitor HostDnsMonitor: unchanged
+08:18:17.192881 dns-monitor HostDnsMonitor: updating information
+08:18:17.192903 dns-monitor HostDnsMonitor: unchanged
+08:20:47.217916 dns-monitor HostDnsMonitor: updating information
+08:20:47.217932 dns-monitor HostDnsMonitor: unchanged
+08:23:17.273226 dns-monitor HostDnsMonitor: updating information
+08:23:17.273291 dns-monitor HostDnsMonitor: unchanged
+08:25:47.306011 dns-monitor HostDnsMonitor: updating information
+08:25:47.306033 dns-monitor HostDnsMonitor: unchanged
+08:28:17.333223 dns-monitor HostDnsMonitor: updating information
+08:28:17.333246 dns-monitor HostDnsMonitor: unchanged
+08:29:26.765551 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:29:26.772948 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+08:30:47.373556 dns-monitor HostDnsMonitor: updating information
+08:30:47.373578 dns-monitor HostDnsMonitor: unchanged
+08:33:17.404574 dns-monitor HostDnsMonitor: updating information
+08:33:17.404599 dns-monitor HostDnsMonitor: unchanged
+08:35:47.445679 dns-monitor HostDnsMonitor: updating information
+08:35:47.445695 dns-monitor HostDnsMonitor: unchanged
+08:38:17.478014 dns-monitor HostDnsMonitor: updating information
+08:38:17.478036 dns-monitor HostDnsMonitor: unchanged
+08:40:47.487974 dns-monitor HostDnsMonitor: updating information
+08:40:47.488001 dns-monitor HostDnsMonitor: unchanged
+08:43:17.509923 dns-monitor HostDnsMonitor: updating information
+08:43:17.509946 dns-monitor HostDnsMonitor: unchanged
+08:45:47.546599 dns-monitor HostDnsMonitor: updating information
+08:45:47.546616 dns-monitor HostDnsMonitor: unchanged
+08:48:17.580832 dns-monitor HostDnsMonitor: updating information
+08:48:17.580854 dns-monitor HostDnsMonitor: unchanged
+08:49:03.750692 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:49:03.761063 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+08:50:47.619009 dns-monitor HostDnsMonitor: updating information
+08:50:47.619031 dns-monitor HostDnsMonitor: unchanged
+08:53:17.627391 dns-monitor HostDnsMonitor: updating information
+08:53:17.627450 dns-monitor HostDnsMonitor: unchanged
+08:55:47.672758 dns-monitor HostDnsMonitor: updating information
+08:55:47.672779 dns-monitor HostDnsMonitor: unchanged
+08:58:17.699144 dns-monitor HostDnsMonitor: updating information
+08:58:17.699166 dns-monitor HostDnsMonitor: unchanged
+09:00:47.728695 dns-monitor HostDnsMonitor: updating information
+09:00:47.728718 dns-monitor HostDnsMonitor: unchanged
+09:03:17.754658 dns-monitor HostDnsMonitor: updating information
+09:03:17.754673 dns-monitor HostDnsMonitor: unchanged
+09:05:47.786963 dns-monitor HostDnsMonitor: updating information
+09:05:47.786985 dns-monitor HostDnsMonitor: unchanged
+09:08:17.821701 dns-monitor HostDnsMonitor: updating information
+09:08:17.821723 dns-monitor HostDnsMonitor: unchanged
+09:10:47.847172 dns-monitor HostDnsMonitor: updating information
+09:10:47.847189 dns-monitor HostDnsMonitor: unchanged
+09:13:17.885425 dns-monitor HostDnsMonitor: updating information
+09:13:17.885446 dns-monitor HostDnsMonitor: unchanged
+09:15:47.916361 dns-monitor HostDnsMonitor: updating information
+09:15:47.916384 dns-monitor HostDnsMonitor: unchanged
+09:18:17.943043 dns-monitor HostDnsMonitor: updating information
+09:18:17.943064 dns-monitor HostDnsMonitor: unchanged
+09:20:46.985209 dns-monitor HostDnsMonitor: updating information
+09:20:46.985228 dns-monitor HostDnsMonitor: unchanged
+09:23:17.009614 dns-monitor HostDnsMonitor: updating information
+09:23:17.009674 dns-monitor HostDnsMonitor: unchanged
+09:25:47.036614 dns-monitor HostDnsMonitor: updating information
+09:25:47.036636 dns-monitor HostDnsMonitor: unchanged
+09:28:17.071118 dns-monitor HostDnsMonitor: updating information
+09:28:17.071139 dns-monitor HostDnsMonitor: unchanged
+09:30:47.121709 dns-monitor HostDnsMonitor: updating information
+09:30:47.121731 dns-monitor HostDnsMonitor: unchanged
+09:33:17.134733 dns-monitor HostDnsMonitor: updating information
+09:33:17.134755 dns-monitor HostDnsMonitor: unchanged
+09:35:47.152565 dns-monitor HostDnsMonitor: updating information
+09:35:47.152579 dns-monitor HostDnsMonitor: unchanged
+09:38:17.165508 dns-monitor HostDnsMonitor: updating information
+09:38:17.165523 dns-monitor HostDnsMonitor: unchanged
+09:40:47.200131 dns-monitor HostDnsMonitor: updating information
+09:40:47.200154 dns-monitor HostDnsMonitor: unchanged
+09:43:17.221492 dns-monitor HostDnsMonitor: updating information
+09:43:17.221515 dns-monitor HostDnsMonitor: unchanged
+09:45:47.262323 dns-monitor HostDnsMonitor: updating information
+09:45:47.262339 dns-monitor HostDnsMonitor: unchanged
+09:48:17.284339 dns-monitor HostDnsMonitor: updating information
+09:48:17.284361 dns-monitor HostDnsMonitor: unchanged
+09:50:47.294502 dns-monitor HostDnsMonitor: updating information
+09:50:47.294522 dns-monitor HostDnsMonitor: unchanged
+09:53:17.312392 dns-monitor HostDnsMonitor: updating information
+09:53:17.312450 dns-monitor HostDnsMonitor: unchanged
+09:55:47.340111 dns-monitor HostDnsMonitor: updating information
+09:55:47.340132 dns-monitor HostDnsMonitor: unchanged
+09:58:17.394544 dns-monitor HostDnsMonitor: updating information
+09:58:17.394565 dns-monitor HostDnsMonitor: unchanged
+10:00:47.428966 dns-monitor HostDnsMonitor: updating information
+10:00:47.428984 dns-monitor HostDnsMonitor: unchanged
+10:03:17.466145 dns-monitor HostDnsMonitor: updating information
+10:03:17.466175 dns-monitor HostDnsMonitor: unchanged
+10:05:47.508581 dns-monitor HostDnsMonitor: updating information
+10:05:47.508612 dns-monitor HostDnsMonitor: unchanged
+10:08:17.539682 dns-monitor HostDnsMonitor: updating information
+10:08:17.539705 dns-monitor HostDnsMonitor: unchanged
+10:10:47.580715 dns-monitor HostDnsMonitor: updating information
+10:10:47.580737 dns-monitor HostDnsMonitor: unchanged
+10:13:17.617634 dns-monitor HostDnsMonitor: updating information
+10:13:17.617656 dns-monitor HostDnsMonitor: unchanged
+10:15:47.619358 dns-monitor HostDnsMonitor: updating information
+10:15:47.619374 dns-monitor HostDnsMonitor: unchanged
+10:18:17.651329 dns-monitor HostDnsMonitor: updating information
+10:18:17.651344 dns-monitor HostDnsMonitor: unchanged
+10:20:47.667110 dns-monitor HostDnsMonitor: updating information
+10:20:47.667133 dns-monitor HostDnsMonitor: unchanged
+10:23:17.712409 dns-monitor HostDnsMonitor: updating information
+10:23:17.712456 dns-monitor HostDnsMonitor: unchanged
+10:25:47.765261 dns-monitor HostDnsMonitor: updating information
+10:25:47.765283 dns-monitor HostDnsMonitor: unchanged
+10:28:17.792763 dns-monitor HostDnsMonitor: updating information
+10:28:17.792785 dns-monitor HostDnsMonitor: unchanged
+10:30:47.808572 dns-monitor HostDnsMonitor: updating information
+10:30:47.808593 dns-monitor HostDnsMonitor: unchanged
+10:33:17.825538 dns-monitor HostDnsMonitor: updating information
+10:33:17.825560 dns-monitor HostDnsMonitor: unchanged
+10:35:47.853244 dns-monitor HostDnsMonitor: updating information
+10:35:47.853266 dns-monitor HostDnsMonitor: unchanged
+10:38:17.896758 dns-monitor HostDnsMonitor: updating information
+10:38:17.896780 dns-monitor HostDnsMonitor: unchanged
+10:40:47.914438 dns-monitor HostDnsMonitor: updating information
+10:40:47.914455 dns-monitor HostDnsMonitor: unchanged
+10:43:17.932066 dns-monitor HostDnsMonitor: updating information
+10:43:17.932084 dns-monitor HostDnsMonitor: unchanged
+10:45:47.973502 dns-monitor HostDnsMonitor: updating information
+10:45:47.973517 dns-monitor HostDnsMonitor: unchanged
+10:48:17.980632 dns-monitor HostDnsMonitor: updating information
+10:48:17.980648 dns-monitor HostDnsMonitor: unchanged
+10:50:48.005038 dns-monitor HostDnsMonitor: updating information
+10:50:48.005061 dns-monitor HostDnsMonitor: unchanged
+10:53:18.061324 dns-monitor HostDnsMonitor: updating information
+10:53:18.061385 dns-monitor HostDnsMonitor: unchanged
+10:55:48.098122 dns-monitor HostDnsMonitor: updating information
+10:55:48.098144 dns-monitor HostDnsMonitor: unchanged
+10:58:18.111266 dns-monitor HostDnsMonitor: updating information
+10:58:18.111289 dns-monitor HostDnsMonitor: unchanged
+11:00:48.148268 dns-monitor HostDnsMonitor: updating information
+11:00:48.148290 dns-monitor HostDnsMonitor: unchanged
+11:03:18.196974 dns-monitor HostDnsMonitor: updating information
+11:03:18.197000 dns-monitor HostDnsMonitor: unchanged
+11:05:48.232888 dns-monitor HostDnsMonitor: updating information
+11:05:48.232910 dns-monitor HostDnsMonitor: unchanged
+11:08:18.270929 dns-monitor HostDnsMonitor: updating information
+11:08:18.270944 dns-monitor HostDnsMonitor: unchanged
+11:10:48.288799 dns-monitor HostDnsMonitor: updating information
+11:10:48.288821 dns-monitor HostDnsMonitor: unchanged
+11:13:18.317914 dns-monitor HostDnsMonitor: updating information
+11:13:18.317930 dns-monitor HostDnsMonitor: unchanged
+11:15:48.336088 dns-monitor HostDnsMonitor: updating information
+11:15:48.336110 dns-monitor HostDnsMonitor: unchanged
+11:18:18.354553 dns-monitor HostDnsMonitor: updating information
+11:18:18.354574 dns-monitor HostDnsMonitor: unchanged
+11:20:48.402795 dns-monitor HostDnsMonitor: updating information
+11:20:48.402817 dns-monitor HostDnsMonitor: unchanged
+11:23:18.420137 dns-monitor HostDnsMonitor: updating information
+11:23:18.420186 dns-monitor HostDnsMonitor: unchanged
+11:25:48.445842 dns-monitor HostDnsMonitor: updating information
+11:25:48.445865 dns-monitor HostDnsMonitor: unchanged
+11:28:18.469869 dns-monitor HostDnsMonitor: updating information
+11:28:18.469891 dns-monitor HostDnsMonitor: unchanged
+11:30:48.511050 dns-monitor HostDnsMonitor: updating information
+11:30:48.511072 dns-monitor HostDnsMonitor: unchanged
+11:33:18.553886 dns-monitor HostDnsMonitor: updating information
+11:33:18.553901 dns-monitor HostDnsMonitor: unchanged
+11:35:48.576850 dns-monitor HostDnsMonitor: updating information
+11:35:48.576871 dns-monitor HostDnsMonitor: unchanged
+11:38:18.609670 dns-monitor HostDnsMonitor: updating information
+11:38:18.609687 dns-monitor HostDnsMonitor: unchanged
+11:40:48.640639 dns-monitor HostDnsMonitor: updating information
+11:40:48.640661 dns-monitor HostDnsMonitor: unchanged
+11:43:18.666124 dns-monitor HostDnsMonitor: updating information
+11:43:18.666139 dns-monitor HostDnsMonitor: unchanged
+11:45:48.690677 dns-monitor HostDnsMonitor: updating information
+11:45:48.690699 dns-monitor HostDnsMonitor: unchanged
+11:48:18.702157 dns-monitor HostDnsMonitor: updating information
+11:48:18.702175 dns-monitor HostDnsMonitor: unchanged
+11:50:48.717257 dns-monitor HostDnsMonitor: updating information
+11:50:48.717278 dns-monitor HostDnsMonitor: unchanged
+11:53:18.743561 dns-monitor HostDnsMonitor: updating information
+11:53:18.743604 dns-monitor HostDnsMonitor: unchanged
+11:54:42.805650 USBPROXY usbLibGetDevices: Starting USB device enumeration
+11:54:42.813434 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+11:55:48.793629 dns-monitor HostDnsMonitor: updating information
+11:55:48.793649 dns-monitor HostDnsMonitor: unchanged
+11:57:32.308131 USBPROXY usbLibGetDevices: Starting USB device enumeration
+11:57:32.315661 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+11:57:33.333012 USBPROXY usbLibGetDevices: Starting USB device enumeration
+11:57:33.340669 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+11:58:18.812946 dns-monitor HostDnsMonitor: updating information
+11:58:18.812968 dns-monitor HostDnsMonitor: unchanged
+11:59:24.522236 USBPROXY usbLibGetDevices: Starting USB device enumeration
+11:59:24.532410 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+12:00:48.869015 dns-monitor HostDnsMonitor: updating information
+12:00:48.869036 dns-monitor HostDnsMonitor: unchanged
+12:03:18.884844 dns-monitor HostDnsMonitor: updating information
+12:03:18.884866 dns-monitor HostDnsMonitor: unchanged
+12:05:48.921283 dns-monitor HostDnsMonitor: updating information
+12:05:48.921304 dns-monitor HostDnsMonitor: unchanged
+12:08:18.938371 dns-monitor HostDnsMonitor: updating information
+12:08:18.938388 dns-monitor HostDnsMonitor: unchanged
+12:10:48.950283 dns-monitor HostDnsMonitor: updating information
+12:10:48.950299 dns-monitor HostDnsMonitor: unchanged
+12:13:17.983860 dns-monitor HostDnsMonitor: updating information
+12:13:17.983882 dns-monitor HostDnsMonitor: unchanged
+12:15:48.023234 dns-monitor HostDnsMonitor: updating information
+12:15:48.023255 dns-monitor HostDnsMonitor: unchanged
+12:18:18.056882 dns-monitor HostDnsMonitor: updating information
+12:18:18.056905 dns-monitor HostDnsMonitor: unchanged
+12:20:48.082078 dns-monitor HostDnsMonitor: updating information
+12:20:48.082100 dns-monitor HostDnsMonitor: unchanged
+12:23:18.107890 dns-monitor HostDnsMonitor: updating information
+12:23:18.107952 dns-monitor HostDnsMonitor: unchanged
+12:25:48.128753 dns-monitor HostDnsMonitor: updating information
+12:25:48.128767 dns-monitor HostDnsMonitor: unchanged
+12:28:18.165490 dns-monitor HostDnsMonitor: updating information
+12:28:18.165512 dns-monitor HostDnsMonitor: unchanged
+12:30:48.176776 dns-monitor HostDnsMonitor: updating information
+12:30:48.176801 dns-monitor HostDnsMonitor: unchanged
+12:33:18.215503 dns-monitor HostDnsMonitor: updating information
+12:33:18.215526 dns-monitor HostDnsMonitor: unchanged
+12:35:48.213915 dns-monitor HostDnsMonitor: updating information
+12:35:48.213937 dns-monitor HostDnsMonitor: unchanged
+12:38:18.237219 dns-monitor HostDnsMonitor: updating information
+12:38:18.237240 dns-monitor HostDnsMonitor: unchanged
+12:40:48.253807 dns-monitor HostDnsMonitor: updating information
+12:40:48.253829 dns-monitor HostDnsMonitor: unchanged
+12:43:18.283141 dns-monitor HostDnsMonitor: updating information
+12:43:18.283164 dns-monitor HostDnsMonitor: unchanged
+12:45:48.314196 dns-monitor HostDnsMonitor: updating information
+12:45:48.314219 dns-monitor HostDnsMonitor: unchanged
+12:48:18.368447 dns-monitor HostDnsMonitor: updating information
+12:48:18.368463 dns-monitor HostDnsMonitor: unchanged
+12:50:48.378525 dns-monitor HostDnsMonitor: updating information
+12:50:48.378547 dns-monitor HostDnsMonitor: unchanged
+12:53:18.425571 dns-monitor HostDnsMonitor: updating information
+12:53:18.425627 dns-monitor HostDnsMonitor: unchanged
+12:55:48.460653 dns-monitor HostDnsMonitor: updating information
+12:55:48.460674 dns-monitor HostDnsMonitor: unchanged
+12:58:18.485250 dns-monitor HostDnsMonitor: updating information
+12:58:18.485273 dns-monitor HostDnsMonitor: unchanged
+13:00:48.519834 dns-monitor HostDnsMonitor: updating information
+13:00:48.519856 dns-monitor HostDnsMonitor: unchanged
+13:03:18.547226 dns-monitor HostDnsMonitor: updating information
+13:03:18.547249 dns-monitor HostDnsMonitor: unchanged
+13:05:48.559973 dns-monitor HostDnsMonitor: updating information
+13:05:48.559995 dns-monitor HostDnsMonitor: unchanged
+13:08:18.583626 dns-monitor HostDnsMonitor: updating information
+13:08:18.583646 dns-monitor HostDnsMonitor: unchanged
+13:10:48.610200 dns-monitor HostDnsMonitor: updating information
+13:10:48.610221 dns-monitor HostDnsMonitor: unchanged
+13:13:18.616073 dns-monitor HostDnsMonitor: updating information
+13:13:18.616095 dns-monitor HostDnsMonitor: unchanged
+13:15:48.651961 dns-monitor HostDnsMonitor: updating information
+13:15:48.651978 dns-monitor HostDnsMonitor: unchanged
+13:18:18.683744 dns-monitor HostDnsMonitor: updating information
+13:18:18.683766 dns-monitor HostDnsMonitor: unchanged
+13:20:48.733612 dns-monitor HostDnsMonitor: updating information
+13:20:48.733634 dns-monitor HostDnsMonitor: unchanged
+13:23:18.757523 dns-monitor HostDnsMonitor: updating information
+13:23:18.757579 dns-monitor HostDnsMonitor: unchanged
+13:25:48.806916 dns-monitor HostDnsMonitor: updating information
+13:25:48.806938 dns-monitor HostDnsMonitor: unchanged
+13:28:18.832649 dns-monitor HostDnsMonitor: updating information
+13:28:18.832673 dns-monitor HostDnsMonitor: unchanged
+13:30:48.829931 dns-monitor HostDnsMonitor: updating information
+13:30:48.829953 dns-monitor HostDnsMonitor: unchanged
+13:33:18.898787 dns-monitor HostDnsMonitor: updating information
+13:33:18.898821 dns-monitor HostDnsMonitor: unchanged
+13:35:48.914052 dns-monitor HostDnsMonitor: updating information
+13:35:48.914073 dns-monitor HostDnsMonitor: unchanged
+13:38:18.931207 dns-monitor HostDnsMonitor: updating information
+13:38:18.931229 dns-monitor HostDnsMonitor: unchanged
+13:40:48.969569 dns-monitor HostDnsMonitor: updating information
+13:40:48.969585 dns-monitor HostDnsMonitor: unchanged
+13:43:19.006737 dns-monitor HostDnsMonitor: updating information
+13:43:19.006759 dns-monitor HostDnsMonitor: unchanged
+13:45:49.025080 dns-monitor HostDnsMonitor: updating information
+13:45:49.025102 dns-monitor HostDnsMonitor: unchanged
+13:48:19.061250 dns-monitor HostDnsMonitor: updating information
+13:48:19.061265 dns-monitor HostDnsMonitor: unchanged
+13:50:49.088360 dns-monitor HostDnsMonitor: updating information
+13:50:49.088383 dns-monitor HostDnsMonitor: unchanged
+13:53:19.155173 dns-monitor HostDnsMonitor: updating information
+13:53:19.155230 dns-monitor HostDnsMonitor: unchanged
+13:55:49.185402 dns-monitor HostDnsMonitor: updating information
+13:55:49.185435 dns-monitor HostDnsMonitor: unchanged
+13:58:19.205299 dns-monitor HostDnsMonitor: updating information
+13:58:19.205322 dns-monitor HostDnsMonitor: unchanged
+14:00:49.217589 dns-monitor HostDnsMonitor: updating information
+14:00:49.217611 dns-monitor HostDnsMonitor: unchanged
+14:03:19.251945 dns-monitor HostDnsMonitor: updating information
+14:03:19.251967 dns-monitor HostDnsMonitor: unchanged
+14:05:49.278017 dns-monitor HostDnsMonitor: updating information
+14:05:49.278039 dns-monitor HostDnsMonitor: unchanged
+14:08:19.297893 dns-monitor HostDnsMonitor: updating information
+14:08:19.297916 dns-monitor HostDnsMonitor: unchanged
+14:10:49.316023 dns-monitor HostDnsMonitor: updating information
+14:10:49.316038 dns-monitor HostDnsMonitor: unchanged
+14:13:19.336198 dns-monitor HostDnsMonitor: updating information
+14:13:19.336220 dns-monitor HostDnsMonitor: unchanged
+14:15:49.371501 dns-monitor HostDnsMonitor: updating information
+14:15:49.371518 dns-monitor HostDnsMonitor: unchanged
+14:18:19.413213 dns-monitor HostDnsMonitor: updating information
+14:18:19.413235 dns-monitor HostDnsMonitor: unchanged
+14:20:49.463512 dns-monitor HostDnsMonitor: updating information
+14:20:49.463534 dns-monitor HostDnsMonitor: unchanged
+14:23:19.509162 dns-monitor HostDnsMonitor: updating information
+14:23:19.509216 dns-monitor HostDnsMonitor: unchanged
+14:25:49.540096 dns-monitor HostDnsMonitor: updating information
+14:25:49.540112 dns-monitor HostDnsMonitor: unchanged
+14:28:19.587203 dns-monitor HostDnsMonitor: updating information
+14:28:19.587224 dns-monitor HostDnsMonitor: unchanged
+14:30:49.585427 dns-monitor HostDnsMonitor: updating information
+14:30:49.585459 dns-monitor HostDnsMonitor: unchanged
+14:33:19.621803 dns-monitor HostDnsMonitor: updating information
+14:33:19.621821 dns-monitor HostDnsMonitor: unchanged
+14:35:49.654786 dns-monitor HostDnsMonitor: updating information
+14:35:49.654806 dns-monitor HostDnsMonitor: unchanged
+14:38:19.690998 dns-monitor HostDnsMonitor: updating information
+14:38:19.691013 dns-monitor HostDnsMonitor: unchanged
+14:40:49.712852 dns-monitor HostDnsMonitor: updating information
+14:40:49.712873 dns-monitor HostDnsMonitor: unchanged
+14:43:19.740986 dns-monitor HostDnsMonitor: updating information
+14:43:19.741008 dns-monitor HostDnsMonitor: unchanged
+14:45:49.767385 dns-monitor HostDnsMonitor: updating information
+14:45:49.767408 dns-monitor HostDnsMonitor: unchanged
+14:48:19.821908 dns-monitor HostDnsMonitor: updating information
+14:48:19.821923 dns-monitor HostDnsMonitor: unchanged
+14:50:49.839839 dns-monitor HostDnsMonitor: updating information
+14:50:49.839860 dns-monitor HostDnsMonitor: unchanged
+14:53:19.866648 dns-monitor HostDnsMonitor: updating information
+14:53:19.866709 dns-monitor HostDnsMonitor: unchanged
+14:55:49.889585 dns-monitor HostDnsMonitor: updating information
+14:55:49.889600 dns-monitor HostDnsMonitor: unchanged
+14:58:19.908617 dns-monitor HostDnsMonitor: updating information
+14:58:19.908640 dns-monitor HostDnsMonitor: unchanged
+15:00:49.949083 dns-monitor HostDnsMonitor: updating information
+15:00:49.949105 dns-monitor HostDnsMonitor: unchanged
+15:03:19.955027 dns-monitor HostDnsMonitor: updating information
+15:03:19.955043 dns-monitor HostDnsMonitor: unchanged
+15:05:50.002556 dns-monitor HostDnsMonitor: updating information
+15:05:50.002574 dns-monitor HostDnsMonitor: unchanged
+15:08:20.048021 dns-monitor HostDnsMonitor: updating information
+15:08:20.048044 dns-monitor HostDnsMonitor: unchanged
+15:10:50.082522 dns-monitor HostDnsMonitor: updating information
+15:10:50.082537 dns-monitor HostDnsMonitor: unchanged
+15:13:20.090259 dns-monitor HostDnsMonitor: updating information
+15:13:20.090281 dns-monitor HostDnsMonitor: unchanged
+15:15:50.099872 dns-monitor HostDnsMonitor: updating information
+15:15:50.099894 dns-monitor HostDnsMonitor: unchanged
+15:18:20.121121 dns-monitor HostDnsMonitor: updating information
+15:18:20.121142 dns-monitor HostDnsMonitor: unchanged
+15:20:50.159918 dns-monitor HostDnsMonitor: updating information
+15:20:50.159948 dns-monitor HostDnsMonitor: unchanged
+15:23:20.181382 dns-monitor HostDnsMonitor: updating information
+15:23:20.181455 dns-monitor HostDnsMonitor: unchanged
+15:25:50.221899 dns-monitor HostDnsMonitor: updating information
+15:25:50.221921 dns-monitor HostDnsMonitor: unchanged
+15:28:20.239439 dns-monitor HostDnsMonitor: updating information
+15:28:20.239462 dns-monitor HostDnsMonitor: unchanged
+15:30:50.268917 dns-monitor HostDnsMonitor: updating information
+15:30:50.268939 dns-monitor HostDnsMonitor: unchanged
+15:33:20.329825 dns-monitor HostDnsMonitor: updating information
+15:33:20.329847 dns-monitor HostDnsMonitor: unchanged
+15:35:50.348108 dns-monitor HostDnsMonitor: updating information
+15:35:50.348130 dns-monitor HostDnsMonitor: unchanged
+15:38:20.385689 dns-monitor HostDnsMonitor: updating information
+15:38:20.385704 dns-monitor HostDnsMonitor: unchanged
+15:40:50.421423 dns-monitor HostDnsMonitor: updating information
+15:40:50.421444 dns-monitor HostDnsMonitor: unchanged
+15:43:20.456236 dns-monitor HostDnsMonitor: updating information
+15:43:20.456258 dns-monitor HostDnsMonitor: unchanged
+15:45:50.475539 dns-monitor HostDnsMonitor: updating information
+15:45:50.475561 dns-monitor HostDnsMonitor: unchanged
+15:48:20.513922 dns-monitor HostDnsMonitor: updating information
+15:48:20.513945 dns-monitor HostDnsMonitor: unchanged
+15:50:50.536399 dns-monitor HostDnsMonitor: updating information
+15:50:50.536422 dns-monitor HostDnsMonitor: unchanged
+15:53:20.566285 dns-monitor HostDnsMonitor: updating information
+15:53:20.566376 dns-monitor HostDnsMonitor: unchanged
+15:55:50.577432 dns-monitor HostDnsMonitor: updating information
+15:55:50.577452 dns-monitor HostDnsMonitor: unchanged
+15:58:20.606327 dns-monitor HostDnsMonitor: updating information
+15:58:20.606349 dns-monitor HostDnsMonitor: unchanged
+16:00:50.633738 dns-monitor HostDnsMonitor: updating information
+16:00:50.633761 dns-monitor HostDnsMonitor: unchanged
+16:03:20.647118 dns-monitor HostDnsMonitor: updating information
+16:03:20.647139 dns-monitor HostDnsMonitor: unchanged
+16:05:50.678665 dns-monitor HostDnsMonitor: updating information
+16:05:50.678683 dns-monitor HostDnsMonitor: unchanged
+16:08:20.720815 dns-monitor HostDnsMonitor: updating information
+16:08:20.720831 dns-monitor HostDnsMonitor: unchanged
+16:10:50.710756 dns-monitor HostDnsMonitor: updating information
+16:10:50.710772 dns-monitor HostDnsMonitor: unchanged
+16:13:20.771492 dns-monitor HostDnsMonitor: updating information
+16:13:20.771515 dns-monitor HostDnsMonitor: unchanged
+16:15:50.816119 dns-monitor HostDnsMonitor: updating information
+16:15:50.816140 dns-monitor HostDnsMonitor: unchanged
+16:18:20.856201 dns-monitor HostDnsMonitor: updating information
+16:18:20.856223 dns-monitor HostDnsMonitor: unchanged
+16:20:50.887883 dns-monitor HostDnsMonitor: updating information
+16:20:50.887905 dns-monitor HostDnsMonitor: unchanged
+16:23:20.903946 dns-monitor HostDnsMonitor: updating information
+16:23:20.903985 dns-monitor HostDnsMonitor: unchanged
+16:25:50.918482 dns-monitor HostDnsMonitor: updating information
+16:25:50.918500 dns-monitor HostDnsMonitor: unchanged
+16:28:20.978370 dns-monitor HostDnsMonitor: updating information
+16:28:20.978393 dns-monitor HostDnsMonitor: unchanged
+16:30:51.001839 dns-monitor HostDnsMonitor: updating information
+16:30:51.001861 dns-monitor HostDnsMonitor: unchanged
+16:33:21.042012 dns-monitor HostDnsMonitor: updating information
+16:33:21.042027 dns-monitor HostDnsMonitor: unchanged
+16:35:51.054689 dns-monitor HostDnsMonitor: updating information
+16:35:51.054712 dns-monitor HostDnsMonitor: unchanged
+16:38:21.087432 dns-monitor HostDnsMonitor: updating information
+16:38:21.087454 dns-monitor HostDnsMonitor: unchanged
+16:40:51.094949 dns-monitor HostDnsMonitor: updating information
+16:40:51.094971 dns-monitor HostDnsMonitor: unchanged
+16:43:21.124319 dns-monitor HostDnsMonitor: updating information
+16:43:21.124339 dns-monitor HostDnsMonitor: unchanged
+16:45:51.147543 dns-monitor HostDnsMonitor: updating information
+16:45:51.147559 dns-monitor HostDnsMonitor: unchanged
+16:46:04.698059 USBPROXY usbLibGetDevices: Starting USB device enumeration
+16:46:04.705578 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+16:48:21.178891 dns-monitor HostDnsMonitor: updating information
+16:48:21.178912 dns-monitor HostDnsMonitor: unchanged
+16:50:51.212366 dns-monitor HostDnsMonitor: updating information
+16:50:51.212388 dns-monitor HostDnsMonitor: unchanged
+16:53:21.245193 dns-monitor HostDnsMonitor: updating information
+16:53:21.245248 dns-monitor HostDnsMonitor: unchanged
+16:55:51.254998 dns-monitor HostDnsMonitor: updating information
+16:55:51.255014 dns-monitor HostDnsMonitor: unchanged
+16:56:00.078392 USBPROXY usbLibGetDevices: Starting USB device enumeration
+16:56:00.088248 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+16:58:21.305577 dns-monitor HostDnsMonitor: updating information
+16:58:21.305599 dns-monitor HostDnsMonitor: unchanged
+17:00:51.340869 dns-monitor HostDnsMonitor: updating information
+17:00:51.340891 dns-monitor HostDnsMonitor: unchanged
+17:03:21.353425 dns-monitor HostDnsMonitor: updating information
+17:03:21.353446 dns-monitor HostDnsMonitor: unchanged
+17:05:51.385596 dns-monitor HostDnsMonitor: updating information
+17:05:51.385613 dns-monitor HostDnsMonitor: unchanged
+17:08:21.414024 dns-monitor HostDnsMonitor: updating information
+17:08:21.414047 dns-monitor HostDnsMonitor: unchanged
+17:10:51.439133 dns-monitor HostDnsMonitor: updating information
+17:10:51.439156 dns-monitor HostDnsMonitor: unchanged
+17:13:21.469616 dns-monitor HostDnsMonitor: updating information
+17:13:21.469639 dns-monitor HostDnsMonitor: unchanged
+17:15:51.515230 dns-monitor HostDnsMonitor: updating information
+17:15:51.515245 dns-monitor HostDnsMonitor: unchanged
+17:18:21.575606 dns-monitor HostDnsMonitor: updating information
+17:18:21.575628 dns-monitor HostDnsMonitor: unchanged
+17:20:51.600293 dns-monitor HostDnsMonitor: updating information
+17:20:51.600315 dns-monitor HostDnsMonitor: unchanged
+17:23:21.612922 dns-monitor HostDnsMonitor: updating information
+17:23:21.612987 dns-monitor HostDnsMonitor: unchanged
+17:25:51.670049 dns-monitor HostDnsMonitor: updating information
+17:25:51.670071 dns-monitor HostDnsMonitor: unchanged
+17:28:21.700750 dns-monitor HostDnsMonitor: updating information
+17:28:21.700768 dns-monitor HostDnsMonitor: unchanged
+17:30:51.703141 dns-monitor HostDnsMonitor: updating information
+17:30:51.703163 dns-monitor HostDnsMonitor: unchanged
+17:33:21.739445 dns-monitor HostDnsMonitor: updating information
+17:33:21.739462 dns-monitor HostDnsMonitor: unchanged
+17:35:51.770110 dns-monitor HostDnsMonitor: updating information
+17:35:51.770129 dns-monitor HostDnsMonitor: unchanged
+17:38:21.778909 dns-monitor HostDnsMonitor: updating information
+17:38:21.778925 dns-monitor HostDnsMonitor: unchanged
+17:40:51.793713 dns-monitor HostDnsMonitor: updating information
+17:40:51.793732 dns-monitor HostDnsMonitor: unchanged
+17:43:21.829550 dns-monitor HostDnsMonitor: updating information
+17:43:21.829566 dns-monitor HostDnsMonitor: unchanged
+17:45:51.861590 dns-monitor HostDnsMonitor: updating information
+17:45:51.861612 dns-monitor HostDnsMonitor: unchanged
+17:48:21.920661 dns-monitor HostDnsMonitor: updating information
+17:48:21.920696 dns-monitor HostDnsMonitor: unchanged
+17:50:51.944673 dns-monitor HostDnsMonitor: updating information
+17:50:51.944695 dns-monitor HostDnsMonitor: unchanged
+17:53:21.963330 dns-monitor HostDnsMonitor: updating information
+17:53:21.963403 dns-monitor HostDnsMonitor: unchanged
+17:55:52.010655 dns-monitor HostDnsMonitor: updating information
+17:55:52.010678 dns-monitor HostDnsMonitor: unchanged
+17:58:22.060424 dns-monitor HostDnsMonitor: updating information
+17:58:22.060446 dns-monitor HostDnsMonitor: unchanged
+18:00:52.096947 dns-monitor HostDnsMonitor: updating information
+18:00:52.096968 dns-monitor HostDnsMonitor: unchanged
+18:03:22.117856 dns-monitor HostDnsMonitor: updating information
+18:03:22.117872 dns-monitor HostDnsMonitor: unchanged
+18:05:52.137060 dns-monitor HostDnsMonitor: updating information
+18:05:52.137082 dns-monitor HostDnsMonitor: unchanged
+18:08:22.179490 dns-monitor HostDnsMonitor: updating information
+18:08:22.179512 dns-monitor HostDnsMonitor: unchanged
+18:10:52.239214 dns-monitor HostDnsMonitor: updating information
+18:10:52.239237 dns-monitor HostDnsMonitor: unchanged
+18:13:22.253825 dns-monitor HostDnsMonitor: updating information
+18:13:22.253847 dns-monitor HostDnsMonitor: unchanged
+18:15:52.290595 dns-monitor HostDnsMonitor: updating information
+18:15:52.290618 dns-monitor HostDnsMonitor: unchanged
+18:18:22.320413 dns-monitor HostDnsMonitor: updating information
+18:18:22.320434 dns-monitor HostDnsMonitor: unchanged
+18:20:52.345863 dns-monitor HostDnsMonitor: updating information
+18:20:52.345885 dns-monitor HostDnsMonitor: unchanged
+18:23:22.361487 dns-monitor HostDnsMonitor: updating information
+18:23:22.361560 dns-monitor HostDnsMonitor: unchanged
+18:25:52.414990 dns-monitor HostDnsMonitor: updating information
+18:25:52.415007 dns-monitor HostDnsMonitor: unchanged
+18:28:22.416360 dns-monitor HostDnsMonitor: updating information
+18:28:22.416380 dns-monitor HostDnsMonitor: unchanged
+18:30:52.473380 dns-monitor HostDnsMonitor: updating information
+18:30:52.473396 dns-monitor HostDnsMonitor: unchanged
+18:33:22.485094 dns-monitor HostDnsMonitor: updating information
+18:33:22.485109 dns-monitor HostDnsMonitor: unchanged
+18:35:52.520944 dns-monitor HostDnsMonitor: updating information
+18:35:52.520966 dns-monitor HostDnsMonitor: unchanged
+18:38:22.547048 dns-monitor HostDnsMonitor: updating information
+18:38:22.547070 dns-monitor HostDnsMonitor: unchanged
+18:40:52.582786 dns-monitor HostDnsMonitor: updating information
+18:40:52.582801 dns-monitor HostDnsMonitor: unchanged
+18:43:22.606089 dns-monitor HostDnsMonitor: updating information
+18:43:22.606112 dns-monitor HostDnsMonitor: unchanged
+18:45:52.627734 dns-monitor HostDnsMonitor: updating information
+18:45:52.627756 dns-monitor HostDnsMonitor: unchanged
+18:48:22.697890 dns-monitor HostDnsMonitor: updating information
+18:48:22.697911 dns-monitor HostDnsMonitor: unchanged
+18:50:52.729322 dns-monitor HostDnsMonitor: updating information
+18:50:52.729344 dns-monitor HostDnsMonitor: unchanged
+18:53:22.747319 dns-monitor HostDnsMonitor: updating information
+18:53:22.747376 dns-monitor HostDnsMonitor: unchanged
+18:55:52.799016 dns-monitor HostDnsMonitor: updating information
+18:55:52.799029 dns-monitor HostDnsMonitor: unchanged
+18:58:22.805971 dns-monitor HostDnsMonitor: updating information
+18:58:22.805989 dns-monitor HostDnsMonitor: unchanged
+19:00:52.824716 dns-monitor HostDnsMonitor: updating information
+19:00:52.824739 dns-monitor HostDnsMonitor: unchanged
+19:03:22.867517 dns-monitor HostDnsMonitor: updating information
+19:03:22.867533 dns-monitor HostDnsMonitor: unchanged
+19:05:52.888530 dns-monitor HostDnsMonitor: updating information
+19:05:52.888549 dns-monitor HostDnsMonitor: unchanged
+19:08:22.916985 dns-monitor HostDnsMonitor: updating information
+19:08:22.917002 dns-monitor HostDnsMonitor: unchanged
+19:10:52.936464 dns-monitor HostDnsMonitor: updating information
+19:10:52.936487 dns-monitor HostDnsMonitor: unchanged
+19:13:22.962625 dns-monitor HostDnsMonitor: updating information
+19:13:22.962646 dns-monitor HostDnsMonitor: unchanged
+19:15:52.975261 dns-monitor HostDnsMonitor: updating information
+19:15:52.975277 dns-monitor HostDnsMonitor: unchanged
+19:18:23.021372 dns-monitor HostDnsMonitor: updating information
+19:18:23.021395 dns-monitor HostDnsMonitor: unchanged
+19:20:53.032304 dns-monitor HostDnsMonitor: updating information
+19:20:53.032326 dns-monitor HostDnsMonitor: unchanged
+19:23:23.049327 dns-monitor HostDnsMonitor: updating information
+19:23:23.049386 dns-monitor HostDnsMonitor: unchanged
+19:25:53.062843 dns-monitor HostDnsMonitor: updating information
+19:25:53.062864 dns-monitor HostDnsMonitor: unchanged
+19:28:23.087831 dns-monitor HostDnsMonitor: updating information
+19:28:23.087855 dns-monitor HostDnsMonitor: unchanged
+19:30:53.117977 dns-monitor HostDnsMonitor: updating information
+19:30:53.117999 dns-monitor HostDnsMonitor: unchanged
+19:33:23.135742 dns-monitor HostDnsMonitor: updating information
+19:33:23.135763 dns-monitor HostDnsMonitor: unchanged
+19:35:14.650895 USBPROXY usbLibGetDevices: Starting USB device enumeration
+19:35:14.658416 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+19:35:53.148033 dns-monitor HostDnsMonitor: updating information
+19:35:53.148048 dns-monitor HostDnsMonitor: unchanged
+19:38:23.177926 dns-monitor HostDnsMonitor: updating information
+19:38:23.177949 dns-monitor HostDnsMonitor: unchanged
+19:40:10.352203 USBPROXY usbLibGetDevices: Starting USB device enumeration
+19:40:10.359635 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+19:40:53.207861 dns-monitor HostDnsMonitor: updating information
+19:40:53.207882 dns-monitor HostDnsMonitor: unchanged
+19:43:23.260348 dns-monitor HostDnsMonitor: updating information
+19:43:23.260370 dns-monitor HostDnsMonitor: unchanged
+19:45:53.300310 dns-monitor HostDnsMonitor: updating information
+19:45:53.300332 dns-monitor HostDnsMonitor: unchanged
+19:48:23.328006 dns-monitor HostDnsMonitor: updating information
+19:48:23.328026 dns-monitor HostDnsMonitor: unchanged
+19:50:53.357597 dns-monitor HostDnsMonitor: updating information
+19:50:53.357619 dns-monitor HostDnsMonitor: unchanged
+19:53:23.400127 dns-monitor HostDnsMonitor: updating information
+19:53:23.400176 dns-monitor HostDnsMonitor: unchanged
+19:55:53.416572 dns-monitor HostDnsMonitor: updating information
+19:55:53.416595 dns-monitor HostDnsMonitor: unchanged
+19:58:23.456973 dns-monitor HostDnsMonitor: updating information
+19:58:23.456991 dns-monitor HostDnsMonitor: unchanged
+20:00:53.488369 dns-monitor HostDnsMonitor: updating information
+20:00:53.488391 dns-monitor HostDnsMonitor: unchanged
+20:03:23.506089 dns-monitor HostDnsMonitor: updating information
+20:03:23.506106 dns-monitor HostDnsMonitor: unchanged
+20:05:53.535904 dns-monitor HostDnsMonitor: updating information
+20:05:53.535926 dns-monitor HostDnsMonitor: unchanged
+20:08:23.534899 dns-monitor HostDnsMonitor: updating information
+20:08:23.534921 dns-monitor HostDnsMonitor: unchanged
+20:10:53.567285 dns-monitor HostDnsMonitor: updating information
+20:10:53.567308 dns-monitor HostDnsMonitor: unchanged
+20:13:23.579243 dns-monitor HostDnsMonitor: updating information
+20:13:23.579265 dns-monitor HostDnsMonitor: unchanged
+20:15:53.617248 dns-monitor HostDnsMonitor: updating information
+20:15:53.617271 dns-monitor HostDnsMonitor: unchanged
+20:18:23.665809 dns-monitor HostDnsMonitor: updating information
+20:18:23.665831 dns-monitor HostDnsMonitor: unchanged
+20:20:53.705340 dns-monitor HostDnsMonitor: updating information
+20:20:53.705362 dns-monitor HostDnsMonitor: unchanged
+20:23:23.736497 dns-monitor HostDnsMonitor: updating information
+20:23:23.736560 dns-monitor HostDnsMonitor: unchanged
+20:25:53.792225 dns-monitor HostDnsMonitor: updating information
+20:25:53.792241 dns-monitor HostDnsMonitor: unchanged
+20:28:23.803578 dns-monitor HostDnsMonitor: updating information
+20:28:23.803596 dns-monitor HostDnsMonitor: unchanged
+20:30:53.852885 dns-monitor HostDnsMonitor: updating information
+20:30:53.852907 dns-monitor HostDnsMonitor: unchanged
+20:33:23.878291 dns-monitor HostDnsMonitor: updating information
+20:33:23.878313 dns-monitor HostDnsMonitor: unchanged
+20:35:53.889791 dns-monitor HostDnsMonitor: updating information
+20:35:53.889813 dns-monitor HostDnsMonitor: unchanged
+20:38:23.920150 dns-monitor HostDnsMonitor: updating information
+20:38:23.920173 dns-monitor HostDnsMonitor: unchanged
+20:40:53.930974 dns-monitor HostDnsMonitor: updating information
+20:40:53.930989 dns-monitor HostDnsMonitor: unchanged
+20:43:23.972442 dns-monitor HostDnsMonitor: updating information
+20:43:23.972457 dns-monitor HostDnsMonitor: unchanged
+20:45:54.023991 dns-monitor HostDnsMonitor: updating information
+20:45:54.024011 dns-monitor HostDnsMonitor: unchanged
+20:48:24.049693 dns-monitor HostDnsMonitor: updating information
+20:48:24.049715 dns-monitor HostDnsMonitor: unchanged
+20:50:54.058544 dns-monitor HostDnsMonitor: updating information
+20:50:54.058567 dns-monitor HostDnsMonitor: unchanged
+20:53:24.111300 dns-monitor HostDnsMonitor: updating information
+20:53:24.111356 dns-monitor HostDnsMonitor: unchanged
+20:55:54.130807 dns-monitor HostDnsMonitor: updating information
+20:55:54.130830 dns-monitor HostDnsMonitor: unchanged
+20:58:24.185598 dns-monitor HostDnsMonitor: updating information
+20:58:24.185619 dns-monitor HostDnsMonitor: unchanged
+21:00:54.224333 dns-monitor HostDnsMonitor: updating information
+21:00:54.224355 dns-monitor HostDnsMonitor: unchanged
+21:03:24.227640 dns-monitor HostDnsMonitor: updating information
+21:03:24.227662 dns-monitor HostDnsMonitor: unchanged
+21:05:54.278447 dns-monitor HostDnsMonitor: updating information
+21:05:54.278468 dns-monitor HostDnsMonitor: unchanged
+21:08:24.295176 dns-monitor HostDnsMonitor: updating information
+21:08:24.295193 dns-monitor HostDnsMonitor: unchanged
+21:10:54.343470 dns-monitor HostDnsMonitor: updating information
+21:10:54.343492 dns-monitor HostDnsMonitor: unchanged
+21:13:24.366170 dns-monitor HostDnsMonitor: updating information
+21:13:24.366193 dns-monitor HostDnsMonitor: unchanged
+21:15:54.393654 dns-monitor HostDnsMonitor: updating information
+21:15:54.393676 dns-monitor HostDnsMonitor: unchanged
+21:18:24.432960 dns-monitor HostDnsMonitor: updating information
+21:18:24.432983 dns-monitor HostDnsMonitor: unchanged
+21:20:54.430810 dns-monitor HostDnsMonitor: updating information
+21:20:54.430833 dns-monitor HostDnsMonitor: unchanged
+21:23:24.481432 dns-monitor HostDnsMonitor: updating information
+21:23:24.481488 dns-monitor HostDnsMonitor: unchanged
+21:25:54.541875 dns-monitor HostDnsMonitor: updating information
+21:25:54.541894 dns-monitor HostDnsMonitor: unchanged
+21:28:24.590497 dns-monitor HostDnsMonitor: updating information
+21:28:24.590519 dns-monitor HostDnsMonitor: unchanged
+21:30:54.604339 dns-monitor HostDnsMonitor: updating information
+21:30:54.604355 dns-monitor HostDnsMonitor: unchanged
+21:33:24.640495 dns-monitor HostDnsMonitor: updating information
+21:33:24.640526 dns-monitor HostDnsMonitor: unchanged
+21:35:54.689008 dns-monitor HostDnsMonitor: updating information
+21:35:54.689030 dns-monitor HostDnsMonitor: unchanged
+21:38:24.712781 dns-monitor HostDnsMonitor: updating information
+21:38:24.712797 dns-monitor HostDnsMonitor: unchanged
+21:40:54.734843 dns-monitor HostDnsMonitor: updating information
+21:40:54.734858 dns-monitor HostDnsMonitor: unchanged
+21:43:24.789919 dns-monitor HostDnsMonitor: updating information
+21:43:24.789941 dns-monitor HostDnsMonitor: unchanged
+21:45:54.807094 dns-monitor HostDnsMonitor: updating information
+21:45:54.807116 dns-monitor HostDnsMonitor: unchanged
+21:48:24.827236 dns-monitor HostDnsMonitor: updating information
+21:48:24.827255 dns-monitor HostDnsMonitor: unchanged
+21:50:54.829349 dns-monitor HostDnsMonitor: updating information
+21:50:54.829366 dns-monitor HostDnsMonitor: unchanged
+21:53:24.838087 dns-monitor HostDnsMonitor: updating information
+21:53:24.838138 dns-monitor HostDnsMonitor: unchanged
+21:55:54.874679 dns-monitor HostDnsMonitor: updating information
+21:55:54.874700 dns-monitor HostDnsMonitor: unchanged
+21:58:24.908119 dns-monitor HostDnsMonitor: updating information
+21:58:24.908141 dns-monitor HostDnsMonitor: unchanged
+22:00:54.930695 dns-monitor HostDnsMonitor: updating information
+22:00:54.930717 dns-monitor HostDnsMonitor: unchanged
+22:03:24.967015 dns-monitor HostDnsMonitor: updating information
+22:03:24.967038 dns-monitor HostDnsMonitor: unchanged
+22:05:55.007653 dns-monitor HostDnsMonitor: updating information
+22:05:55.007675 dns-monitor HostDnsMonitor: unchanged
+22:08:25.008001 dns-monitor HostDnsMonitor: updating information
+22:08:25.008023 dns-monitor HostDnsMonitor: unchanged
+22:10:55.036949 dns-monitor HostDnsMonitor: updating information
+22:10:55.036973 dns-monitor HostDnsMonitor: unchanged
+22:13:25.066747 dns-monitor HostDnsMonitor: updating information
+22:13:25.066769 dns-monitor HostDnsMonitor: unchanged
+22:15:55.110446 dns-monitor HostDnsMonitor: updating information
+22:15:55.110468 dns-monitor HostDnsMonitor: unchanged
+22:18:25.140550 dns-monitor HostDnsMonitor: updating information
+22:18:25.140564 dns-monitor HostDnsMonitor: unchanged
+22:20:55.173831 dns-monitor HostDnsMonitor: updating information
+22:20:55.173853 dns-monitor HostDnsMonitor: unchanged
+22:23:25.220653 dns-monitor HostDnsMonitor: updating information
+22:23:25.220710 dns-monitor HostDnsMonitor: unchanged
+22:25:55.262495 dns-monitor HostDnsMonitor: updating information
+22:25:55.262514 dns-monitor HostDnsMonitor: unchanged
+22:28:25.301162 dns-monitor HostDnsMonitor: updating information
+22:28:25.301184 dns-monitor HostDnsMonitor: unchanged
+22:30:55.350550 dns-monitor HostDnsMonitor: updating information
+22:30:55.350565 dns-monitor HostDnsMonitor: unchanged
+22:33:25.375194 dns-monitor HostDnsMonitor: updating information
+22:33:25.375216 dns-monitor HostDnsMonitor: unchanged
+22:35:55.364329 dns-monitor HostDnsMonitor: updating information
+22:35:55.364345 dns-monitor HostDnsMonitor: unchanged
+22:38:25.381879 dns-monitor HostDnsMonitor: updating information
+22:38:25.381903 dns-monitor HostDnsMonitor: unchanged
+22:40:55.412599 dns-monitor HostDnsMonitor: updating information
+22:40:55.412618 dns-monitor HostDnsMonitor: unchanged
+22:42:19.310767 USBPROXY usbLibGetDevices: Starting USB device enumeration
+22:42:19.318337 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+22:43:25.452539 dns-monitor HostDnsMonitor: updating information
+22:43:25.452560 dns-monitor HostDnsMonitor: unchanged
+22:45:55.491575 dns-monitor HostDnsMonitor: updating information
+22:45:55.491591 dns-monitor HostDnsMonitor: unchanged
+22:46:42.176372 USBPROXY usbLibGetDevices: Starting USB device enumeration
+22:46:42.186775 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+22:48:25.518350 dns-monitor HostDnsMonitor: updating information
+22:48:25.518372 dns-monitor HostDnsMonitor: unchanged
+22:50:55.539691 dns-monitor HostDnsMonitor: updating information
+22:50:55.539714 dns-monitor HostDnsMonitor: unchanged
+22:53:25.578627 dns-monitor HostDnsMonitor: updating information
+22:53:25.578698 dns-monitor HostDnsMonitor: unchanged
+22:55:55.617305 dns-monitor HostDnsMonitor: updating information
+22:55:55.617328 dns-monitor HostDnsMonitor: unchanged
+22:58:25.637187 dns-monitor HostDnsMonitor: updating information
+22:58:25.637209 dns-monitor HostDnsMonitor: unchanged
+23:00:55.676774 dns-monitor HostDnsMonitor: updating information
+23:00:55.676793 dns-monitor HostDnsMonitor: unchanged
+23:03:25.739645 dns-monitor HostDnsMonitor: updating information
+23:03:25.739667 dns-monitor HostDnsMonitor: unchanged
+23:05:55.755604 dns-monitor HostDnsMonitor: updating information
+23:05:55.755626 dns-monitor HostDnsMonitor: unchanged
+23:08:25.783484 dns-monitor HostDnsMonitor: updating information
+23:08:25.783506 dns-monitor HostDnsMonitor: unchanged
+23:10:55.813878 dns-monitor HostDnsMonitor: updating information
+23:10:55.813900 dns-monitor HostDnsMonitor: unchanged
+23:13:25.847127 dns-monitor HostDnsMonitor: updating information
+23:13:25.847149 dns-monitor HostDnsMonitor: unchanged
+23:15:55.858705 dns-monitor HostDnsMonitor: updating information
+23:15:55.858727 dns-monitor HostDnsMonitor: unchanged
+23:18:25.877227 dns-monitor HostDnsMonitor: updating information
+23:18:25.877250 dns-monitor HostDnsMonitor: unchanged
+23:20:55.907491 dns-monitor HostDnsMonitor: updating information
+23:20:55.907512 dns-monitor HostDnsMonitor: unchanged
+23:23:25.927244 dns-monitor HostDnsMonitor: updating information
+23:23:25.927300 dns-monitor HostDnsMonitor: unchanged
+23:25:55.967770 dns-monitor HostDnsMonitor: updating information
+23:25:55.967792 dns-monitor HostDnsMonitor: unchanged
+23:28:26.009647 dns-monitor HostDnsMonitor: updating information
+23:28:26.009671 dns-monitor HostDnsMonitor: unchanged
+23:30:56.021422 dns-monitor HostDnsMonitor: updating information
+23:30:56.021437 dns-monitor HostDnsMonitor: unchanged
+23:33:26.052094 dns-monitor HostDnsMonitor: updating information
+23:33:26.052116 dns-monitor HostDnsMonitor: unchanged
+23:35:56.105832 dns-monitor HostDnsMonitor: updating information
+23:35:56.105853 dns-monitor HostDnsMonitor: unchanged
+23:38:26.114765 dns-monitor HostDnsMonitor: updating information
+23:38:26.114779 dns-monitor HostDnsMonitor: unchanged
+23:40:56.130504 dns-monitor HostDnsMonitor: updating information
+23:40:56.130525 dns-monitor HostDnsMonitor: unchanged
+23:43:26.149122 dns-monitor HostDnsMonitor: updating information
+23:43:26.149145 dns-monitor HostDnsMonitor: unchanged
+23:45:56.173842 dns-monitor HostDnsMonitor: updating information
+23:45:56.173864 dns-monitor HostDnsMonitor: unchanged
+23:48:26.214422 dns-monitor HostDnsMonitor: updating information
+23:48:26.214445 dns-monitor HostDnsMonitor: unchanged
+23:50:56.264459 dns-monitor HostDnsMonitor: updating information
+23:50:56.264482 dns-monitor HostDnsMonitor: unchanged
+23:51:15.771343 main     VirtualBox: object deletion starts
+23:51:15.772360 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\studentcoll\VirtualBox VMs\Debian\Learning OS-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+23:51:15.773384 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\studentcoll\VirtualBox VMs\Ubuntu 22.10\Ubuntu 22.10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+23:51:15.773770 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+23:51:15.775412 main     HostDnsMonitor: shutting down ...
+23:51:15.775508 main     HostDnsMonitor: shut down
+23:51:15.778856 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+23:51:15.779063 main     VirtualBox: object deleted
