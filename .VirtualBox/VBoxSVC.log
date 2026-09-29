@@ -1,0 +1,262 @@
+00:00:00.003010 main     VirtualBox COM Server 7.0.12 r159484 win.amd64 (Oct 12 2023 19:53:29) release log
+00:00:00.003012 main     Log opened 2026-09-22T05:03:51.933661700Z
+00:00:00.003012 main     Build Type: release
+00:00:00.003017 main     OS Product: Windows 10
+00:00:00.003018 main     OS Release: 10.0.19045
+00:00:00.003018 main     OS Service Pack: 
+00:00:00.017008 main     DMI Product Name: HP EliteDesk 800 G4 WKS TWR
+00:00:00.026051 main     DMI Product Version: SBKPF
+00:00:00.026073 main     Firmware type: UEFI
+00:00:00.026352 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.026377 main     Host RAM: 16158MB (15.7GB) total, 11090MB (10.8GB) available
+00:00:00.026381 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.026381 main     Process ID: 51820
+00:00:00.026382 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.072831          VirtualBox: object creation starts
+00:00:00.074524          Home directory: 'C:\Users\studentcoll\.VirtualBox'
+00:00:00.074778          Installed Drivers:
+00:00:00.078841            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.12.9484)
+00:00:00.079764            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.12.9484)
+00:00:00.080311            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.12.9484)
+00:00:00.081327            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.12.9484)
+00:00:00.097622          Loading settings file "C:\Users\studentcoll\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.103873          usbLibGetDevices: Starting USB device enumeration
+00:00:00.116386          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.215918          HostDnsMonitor: initializing
+00:00:00.220899          HostDnsMonitor: updating information
+00:00:00.221369          HostDnsMonitor: old information
+00:00:00.221369            no server entries
+00:00:00.221370            no domain set
+00:00:00.221370            no search string entries
+00:00:00.221371          HostDnsMonitor: new information
+00:00:00.221371            server 1: 192.168.9.2
+00:00:00.221372            domain: tp.local
+00:00:00.221372            no search string entries
+00:00:00.227405          VD: VDInit finished with VINF_SUCCESS
+00:00:00.244461          Loading settings file "C:\Users\studentcoll\VirtualBox VMs\Debian\Debian.vbox" with version "1.19-windows"
+00:00:00.257644          Loading settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu 22.10\Ubuntu 22.10.vbox" with version "1.19-windows"
+00:00:00.265209          Loading settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vbox" with version "1.19-windows"
+00:00:00.266609          VirtualBox: object created
+00:00:00.319984          Saving settings file "C:\Users\studentcoll\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.322727          Finished saving settings file "C:\Users\studentcoll\.VirtualBox\VirtualBox.xml"
+00:00:00.322885          Saving settings file "C:\Users\studentcoll\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.324757          Finished saving settings file "C:\Users\studentcoll\.VirtualBox\VirtualBox.xml"
+00:00:00.324953          Saving settings file "C:\Users\studentcoll\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.326895          Finished saving settings file "C:\Users\studentcoll\.VirtualBox\VirtualBox.xml"
+00:00:01.295677          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:08.268448          Launched VM: 3713254944 pid: 17016 (0x4278) frontend: GUI/Qt name: Ubuntu linus
+00:00:08.281129          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:13.271882          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:13.703280          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:15.681299          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Restoring)}, preserve=false aResultDetail=0
+00:00:15.722277          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Restoring)}, preserve=false aResultDetail=0
+00:00:16.831214          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:27.367960          Saving settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vbox" with version "1.19-windows"
+00:00:27.371328          Finished saving settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vbox"
+00:00:27.431888          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:45.473708 dns-monitor HostDnsMonitor: updating information
+00:00:45.473724 dns-monitor HostDnsMonitor: unchanged
+00:03:15.485327 dns-monitor HostDnsMonitor: updating information
+00:03:15.485344 dns-monitor HostDnsMonitor: unchanged
+00:05:45.499473 dns-monitor HostDnsMonitor: updating information
+00:05:45.499489 dns-monitor HostDnsMonitor: unchanged
+00:08:15.513324 dns-monitor HostDnsMonitor: updating information
+00:08:15.513348 dns-monitor HostDnsMonitor: unchanged
+00:10:45.528683 dns-monitor HostDnsMonitor: updating information
+00:10:45.528701 dns-monitor HostDnsMonitor: unchanged
+00:13:15.542195 dns-monitor HostDnsMonitor: updating information
+00:13:15.542217 dns-monitor HostDnsMonitor: unchanged
+00:15:45.555942 dns-monitor HostDnsMonitor: updating information
+00:15:45.555964 dns-monitor HostDnsMonitor: unchanged
+00:18:15.569170 dns-monitor HostDnsMonitor: updating information
+00:18:15.569194 dns-monitor HostDnsMonitor: unchanged
+00:20:45.583195 dns-monitor HostDnsMonitor: updating information
+00:20:45.583219 dns-monitor HostDnsMonitor: unchanged
+00:23:15.596375 dns-monitor HostDnsMonitor: updating information
+00:23:15.596434 dns-monitor HostDnsMonitor: unchanged
+00:25:45.610274 dns-monitor HostDnsMonitor: updating information
+00:25:45.610298 dns-monitor HostDnsMonitor: unchanged
+00:28:15.626047 dns-monitor HostDnsMonitor: updating information
+00:28:15.626070 dns-monitor HostDnsMonitor: unchanged
+00:30:45.640739 dns-monitor HostDnsMonitor: updating information
+00:30:45.640761 dns-monitor HostDnsMonitor: unchanged
+00:33:15.654522 dns-monitor HostDnsMonitor: updating information
+00:33:15.654553 dns-monitor HostDnsMonitor: unchanged
+00:35:45.668379 dns-monitor HostDnsMonitor: updating information
+00:35:45.668401 dns-monitor HostDnsMonitor: unchanged
+00:38:15.680528 dns-monitor HostDnsMonitor: updating information
+00:38:15.680550 dns-monitor HostDnsMonitor: unchanged
+00:40:45.692976 dns-monitor HostDnsMonitor: updating information
+00:40:45.693004 dns-monitor HostDnsMonitor: unchanged
+00:43:15.705918 dns-monitor HostDnsMonitor: updating information
+00:43:15.705942 dns-monitor HostDnsMonitor: unchanged
+00:45:45.719871 dns-monitor HostDnsMonitor: updating information
+00:45:45.719889 dns-monitor HostDnsMonitor: unchanged
+00:48:15.734918 dns-monitor HostDnsMonitor: updating information
+00:48:15.734940 dns-monitor HostDnsMonitor: unchanged
+00:50:45.754411 dns-monitor HostDnsMonitor: updating information
+00:50:45.754476 dns-monitor HostDnsMonitor: unchanged
+00:53:15.771919 dns-monitor HostDnsMonitor: updating information
+00:53:15.771972 dns-monitor HostDnsMonitor: unchanged
+00:55:45.786151 dns-monitor HostDnsMonitor: updating information
+00:55:45.786174 dns-monitor HostDnsMonitor: unchanged
+00:58:15.797555 dns-monitor HostDnsMonitor: updating information
+00:58:15.797577 dns-monitor HostDnsMonitor: unchanged
+01:00:45.810695 dns-monitor HostDnsMonitor: updating information
+01:00:45.810717 dns-monitor HostDnsMonitor: unchanged
+01:03:15.821339 dns-monitor HostDnsMonitor: updating information
+01:03:15.821355 dns-monitor HostDnsMonitor: unchanged
+01:05:45.834572 dns-monitor HostDnsMonitor: updating information
+01:05:45.834595 dns-monitor HostDnsMonitor: unchanged
+01:08:15.845535 dns-monitor HostDnsMonitor: updating information
+01:08:15.845557 dns-monitor HostDnsMonitor: unchanged
+01:10:45.858494 dns-monitor HostDnsMonitor: updating information
+01:10:45.858511 dns-monitor HostDnsMonitor: unchanged
+01:13:15.871780 dns-monitor HostDnsMonitor: updating information
+01:13:15.871797 dns-monitor HostDnsMonitor: unchanged
+01:15:45.884606 dns-monitor HostDnsMonitor: updating information
+01:15:45.884629 dns-monitor HostDnsMonitor: unchanged
+01:18:15.895542 dns-monitor HostDnsMonitor: updating information
+01:18:15.895567 dns-monitor HostDnsMonitor: unchanged
+01:20:45.908866 dns-monitor HostDnsMonitor: updating information
+01:20:45.908888 dns-monitor HostDnsMonitor: unchanged
+01:23:15.919686 dns-monitor HostDnsMonitor: updating information
+01:23:15.919734 dns-monitor HostDnsMonitor: unchanged
+01:25:45.931423 dns-monitor HostDnsMonitor: updating information
+01:25:45.931439 dns-monitor HostDnsMonitor: unchanged
+01:28:15.943574 dns-monitor HostDnsMonitor: updating information
+01:28:15.943601 dns-monitor HostDnsMonitor: unchanged
+01:30:45.955506 dns-monitor HostDnsMonitor: updating information
+01:30:45.955521 dns-monitor HostDnsMonitor: unchanged
+01:33:15.967721 dns-monitor HostDnsMonitor: updating information
+01:33:15.967743 dns-monitor HostDnsMonitor: unchanged
+01:35:45.980007 dns-monitor HostDnsMonitor: updating information
+01:35:45.980029 dns-monitor HostDnsMonitor: unchanged
+01:38:15.991597 dns-monitor HostDnsMonitor: updating information
+01:38:15.991615 dns-monitor HostDnsMonitor: unchanged
+01:40:46.004598 dns-monitor HostDnsMonitor: updating information
+01:40:46.004613 dns-monitor HostDnsMonitor: unchanged
+01:43:16.022922 dns-monitor HostDnsMonitor: updating information
+01:43:16.022938 dns-monitor HostDnsMonitor: unchanged
+01:45:46.034976 dns-monitor HostDnsMonitor: updating information
+01:45:46.034997 dns-monitor HostDnsMonitor: unchanged
+01:48:16.048031 dns-monitor HostDnsMonitor: updating information
+01:48:16.048054 dns-monitor HostDnsMonitor: unchanged
+01:50:46.061251 dns-monitor HostDnsMonitor: updating information
+01:50:46.061273 dns-monitor HostDnsMonitor: unchanged
+01:53:16.073271 dns-monitor HostDnsMonitor: updating information
+01:53:16.073329 dns-monitor HostDnsMonitor: unchanged
+01:55:46.086309 dns-monitor HostDnsMonitor: updating information
+01:55:46.086326 dns-monitor HostDnsMonitor: unchanged
+01:58:16.106719 dns-monitor HostDnsMonitor: updating information
+01:58:16.106750 dns-monitor HostDnsMonitor: unchanged
+02:00:46.123763 dns-monitor HostDnsMonitor: updating information
+02:00:46.123796 dns-monitor HostDnsMonitor: unchanged
+02:03:16.134692 dns-monitor HostDnsMonitor: updating information
+02:03:16.134708 dns-monitor HostDnsMonitor: unchanged
+02:05:46.148461 dns-monitor HostDnsMonitor: updating information
+02:05:46.148483 dns-monitor HostDnsMonitor: unchanged
+02:08:16.160400 dns-monitor HostDnsMonitor: updating information
+02:08:16.160418 dns-monitor HostDnsMonitor: unchanged
+02:10:46.172336 dns-monitor HostDnsMonitor: updating information
+02:10:46.172357 dns-monitor HostDnsMonitor: unchanged
+02:13:16.185506 dns-monitor HostDnsMonitor: updating information
+02:13:16.185528 dns-monitor HostDnsMonitor: unchanged
+02:15:46.199122 dns-monitor HostDnsMonitor: updating information
+02:15:46.199146 dns-monitor HostDnsMonitor: unchanged
+02:18:16.211832 dns-monitor HostDnsMonitor: updating information
+02:18:16.211849 dns-monitor HostDnsMonitor: unchanged
+02:20:46.223322 dns-monitor HostDnsMonitor: updating information
+02:20:46.223337 dns-monitor HostDnsMonitor: unchanged
+02:23:16.235043 dns-monitor HostDnsMonitor: updating information
+02:23:16.235090 dns-monitor HostDnsMonitor: unchanged
+02:25:46.247552 dns-monitor HostDnsMonitor: updating information
+02:25:46.247575 dns-monitor HostDnsMonitor: unchanged
+02:28:16.263810 dns-monitor HostDnsMonitor: updating information
+02:28:16.263831 dns-monitor HostDnsMonitor: unchanged
+02:30:46.275101 dns-monitor HostDnsMonitor: updating information
+02:30:46.275123 dns-monitor HostDnsMonitor: unchanged
+02:33:16.287733 dns-monitor HostDnsMonitor: updating information
+02:33:16.287758 dns-monitor HostDnsMonitor: unchanged
+02:35:46.300051 dns-monitor HostDnsMonitor: updating information
+02:35:46.300076 dns-monitor HostDnsMonitor: unchanged
+02:38:16.312651 dns-monitor HostDnsMonitor: updating information
+02:38:16.312673 dns-monitor HostDnsMonitor: unchanged
+02:40:46.325280 dns-monitor HostDnsMonitor: updating information
+02:40:46.325303 dns-monitor HostDnsMonitor: unchanged
+02:43:16.339122 dns-monitor HostDnsMonitor: updating information
+02:43:16.339144 dns-monitor HostDnsMonitor: unchanged
+02:45:46.351665 dns-monitor HostDnsMonitor: updating information
+02:45:46.351680 dns-monitor HostDnsMonitor: unchanged
+02:48:16.363602 dns-monitor HostDnsMonitor: updating information
+02:48:16.363618 dns-monitor HostDnsMonitor: unchanged
+02:50:46.374822 dns-monitor HostDnsMonitor: updating information
+02:50:46.374843 dns-monitor HostDnsMonitor: unchanged
+02:53:16.389259 dns-monitor HostDnsMonitor: updating information
+02:53:16.389318 dns-monitor HostDnsMonitor: unchanged
+02:55:46.401712 dns-monitor HostDnsMonitor: updating information
+02:55:46.401727 dns-monitor HostDnsMonitor: unchanged
+02:58:16.414535 dns-monitor HostDnsMonitor: updating information
+02:58:16.414557 dns-monitor HostDnsMonitor: unchanged
+03:00:46.425898 dns-monitor HostDnsMonitor: updating information
+03:00:46.425919 dns-monitor HostDnsMonitor: unchanged
+03:03:16.438896 dns-monitor HostDnsMonitor: updating information
+03:03:16.438918 dns-monitor HostDnsMonitor: unchanged
+03:05:17.738847          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+03:05:22.196055          Saving settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vbox" with version "1.19-windows"
+03:05:22.198197          Finished saving settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vbox"
+03:05:22.236428          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+03:05:22.459626          Saving settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vbox" with version "1.19-windows"
+03:05:22.462373          Finished saving settings file "C:\Users\studentcoll\VirtualBox VMs\Ubuntu linus\Ubuntu linus.vbox"
+03:05:22.474922          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:05:23.479263          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:05:46.463874 dns-monitor HostDnsMonitor: updating information
+03:05:46.463889 dns-monitor HostDnsMonitor: unchanged
+03:08:16.507549 dns-monitor HostDnsMonitor: updating information
+03:08:16.507617 dns-monitor HostDnsMonitor: unchanged
+03:10:46.540185 dns-monitor HostDnsMonitor: updating information
+03:10:46.540207 dns-monitor HostDnsMonitor: unchanged
+03:13:16.561525 dns-monitor HostDnsMonitor: updating information
+03:13:16.561547 dns-monitor HostDnsMonitor: unchanged
+03:15:46.587686 dns-monitor HostDnsMonitor: updating information
+03:15:46.587709 dns-monitor HostDnsMonitor: unchanged
+03:18:16.617924 dns-monitor HostDnsMonitor: updating information
+03:18:16.617947 dns-monitor HostDnsMonitor: unchanged
+03:20:46.636790 dns-monitor HostDnsMonitor: updating information
+03:20:46.636812 dns-monitor HostDnsMonitor: unchanged
+03:23:16.674395 dns-monitor HostDnsMonitor: updating information
+03:23:16.674411 dns-monitor HostDnsMonitor: unchanged
+03:25:46.709461 dns-monitor HostDnsMonitor: updating information
+03:25:46.709482 dns-monitor HostDnsMonitor: unchanged
+03:28:16.741180 dns-monitor HostDnsMonitor: updating information
+03:28:16.741200 dns-monitor HostDnsMonitor: unchanged
+03:30:46.766888 dns-monitor HostDnsMonitor: updating information
+03:30:46.766903 dns-monitor HostDnsMonitor: unchanged
+03:33:16.801366 dns-monitor HostDnsMonitor: updating information
+03:33:16.801383 dns-monitor HostDnsMonitor: unchanged
+03:35:46.833617 dns-monitor HostDnsMonitor: updating information
+03:35:46.833639 dns-monitor HostDnsMonitor: unchanged
+03:38:16.853015 dns-monitor HostDnsMonitor: updating information
+03:38:16.853072 dns-monitor HostDnsMonitor: unchanged
+03:40:46.879318 dns-monitor HostDnsMonitor: updating information
+03:40:46.879339 dns-monitor HostDnsMonitor: unchanged
+03:43:16.898329 dns-monitor HostDnsMonitor: updating information
+03:43:16.898344 dns-monitor HostDnsMonitor: unchanged
+03:45:46.917451 dns-monitor HostDnsMonitor: updating information
+03:45:46.917479 dns-monitor HostDnsMonitor: unchanged
+03:46:55.855834 USBPROXY usbLibGetDevices: Starting USB device enumeration
+03:46:55.864039 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+03:48:16.955022 dns-monitor HostDnsMonitor: updating information
+03:48:16.955063 dns-monitor HostDnsMonitor: unchanged
+03:50:45.988614 dns-monitor HostDnsMonitor: updating information
+03:50:45.988636 dns-monitor HostDnsMonitor: unchanged
+03:53:16.013338 dns-monitor HostDnsMonitor: updating information
+03:53:16.013359 dns-monitor HostDnsMonitor: unchanged
+03:55:46.057445 dns-monitor HostDnsMonitor: updating information
+03:55:46.057466 dns-monitor HostDnsMonitor: unchanged
+03:58:16.085144 dns-monitor HostDnsMonitor: updating information
+03:58:16.085166 dns-monitor HostDnsMonitor: unchanged
+04:00:46.106347 dns-monitor HostDnsMonitor: updating information
+04:00:46.106449 dns-monitor HostDnsMonitor: unchanged
+04:02:16.457834 USBPROXY usbLibGetDevices: Starting USB device enumeration
+04:02:16.465484 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
